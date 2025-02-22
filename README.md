@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hien's Github 
 
 <!--
 **pharmdawg/pharmdawg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* Senior Applied Scientist currently working at Amazon
+* https://www.linkedin.com/in/hien-pham-b72a9329/
